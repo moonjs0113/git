@@ -6,6 +6,8 @@ labels: ["bug", "triage"]
 # assignees도 마찬가지로 없는 없는 경우엔 무시됨
 assignees:
   - moonjs0113
+projects:
+  - "Git Project"
 body:
   - type: markdown
     attributes:
