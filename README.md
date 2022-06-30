@@ -9,13 +9,13 @@
 
 # merge
 
-# Tamplate
+# Template
 ## Issue
 ### Markdown
 ``` markdown
 ---
-name: Markdown Tamplate
-about: Markdown Tamplate
+name: Markdown Template
+about: Markdown Template
 title: "[Label] Issue Title"
 labels: ['bug', 'feature']
 assignees: 'moonjs0113'
@@ -34,8 +34,8 @@ assignees: 'moonjs0113'
 
 ### YAML
 ``` yaml
-name: YAML Tamplate
-description: YAML Tamplate Description
+name: YAML Template
+description: YAML Template Description
 title: "[Label]: Issue Title"
 # lable이 없을 경우에도 무시되기 때문에 존재하지 않는 label이라도 문제없다.
 labels: ["bug", "triage"]
@@ -108,10 +108,11 @@ body:
 ```
 
 ## Pull Request
+![template](https://github.com/moonjs0113/git/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 ``` markdown
 ---
-name: Markdown Tamplate
-about: Markdown Tamplate
+name: Markdown Template
+about: Markdown Template
 title: "[Label] Issue Title"
 labels: ['bug', 'feature']
 assignees: 'moonjs0113'
