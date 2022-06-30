@@ -12,6 +12,7 @@
 # Template
 ## Issue
 ### Markdown
+[template](https://github.com/moonjs0113/git/blob/main/.github/ISSUE_TEMPLATE/markdown-tamplate.md)
 ``` markdown
 ---
 name: Markdown Template
@@ -33,6 +34,7 @@ assignees: 'moonjs0113'
 ```
 
 ### YAML
+[template](https://github.com/moonjs0113/git/blob/main/.github/ISSUE_TEMPLATE/yml-tamplate.yml)
 ``` yaml
 name: YAML Template
 description: YAML Template Description
@@ -108,7 +110,7 @@ body:
 ```
 
 ## Pull Request
-![template](https://github.com/moonjs0113/git/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+[template](https://github.com/moonjs0113/git/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 ``` markdown
 ---
 name: Markdown Template
