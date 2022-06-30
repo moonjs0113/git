@@ -2,8 +2,8 @@
 name: Markdown Tamplate
 about: Markdown Tamplate
 title: "[Label] Issue Title"
-labels: ''
-assignees: ''
+labels: ['bug', 'feature']
+assignees: 'moonjs0113'
 
 ---
 
