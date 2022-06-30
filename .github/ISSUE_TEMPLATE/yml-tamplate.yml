@@ -57,7 +57,7 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       # render: shell 텍스트 속성
-      render: swift
+      render: shell
   - type: checkboxes
     id: terms
     attributes:
@@ -66,3 +66,5 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+        - label: Optional Check Box
+          required: false
