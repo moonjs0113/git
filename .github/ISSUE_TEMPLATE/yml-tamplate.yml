@@ -7,7 +7,7 @@ labels: ["bug", "triage"]
 assignees:
   - moonjs0113
 projects:
-  - "Git Project"
+  - Git Project
 body:
   - type: markdown
     attributes:
