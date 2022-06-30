@@ -6,8 +6,7 @@ labels: ["bug", "triage"]
 # assignees도 마찬가지로 없는 없는 경우엔 무시됨
 assignees:
   - moonjs0113
-projects:
-  - Git-Project
+# projects 는 아직 지원하지 않는건가?
 body:
   - type: markdown
     attributes:
