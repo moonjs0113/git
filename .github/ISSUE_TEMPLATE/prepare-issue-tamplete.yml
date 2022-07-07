@@ -1,4 +1,4 @@
-name: Prepare Tamplate
+name: Prepare Template
 description: 작업 준비 사항을 공유할 때 사용하는 템플릿
 title: "[Prepare]: Prepare 이슈 제목"
 labels: ["prepare", "feature"]
