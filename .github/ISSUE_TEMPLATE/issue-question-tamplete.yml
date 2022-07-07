@@ -1,0 +1,38 @@
+name: YAML Tamplate
+description: YAML Tamplate Description
+title: "[Question]: 질문 제목"
+labels: ["question"]
+
+questionBody:
+  - type: markdown
+    attributes:
+      value: |
+        ## 시도해본 것
+        - 
+        
+        ## 찾아본 래퍼런스
+        - 
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 질문 내용
+      description: 설명할 사진이 있
+      placeholder: Question Content
+      value: ""
+    validations:
+      required: true
+      
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 시도해본 것 or 찾아본 래퍼런스
+      description: 사진을 함께 첨부하면 좋아요!
+      value: questionBody
+    validations:
+      required: false  
