@@ -30,7 +30,7 @@ body:
     id: prepare-period
     attributes:
       label: Period
-      description: 버그가 발생한 App Version
+      description: 예상 기간
       placeholder: ~ MM/DD(E) ex. ~ 07/12(화)
     validations:
       required: true
