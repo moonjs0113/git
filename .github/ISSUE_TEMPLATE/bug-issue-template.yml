@@ -25,7 +25,7 @@ body:
     attributes:
       label: Xcode Version(Optional)
       description: 버그가 발생한 Xcode Version
-      placeholder: 13.3
+      placeholder: "13.3"
     validations:
       required: false
   - type: dropdown
@@ -40,12 +40,12 @@ body:
       required: true
       
   - type: textarea
-    id: where-bug
+    id: what-bug
     attributes:
       label: Bug Report
       description: 어떤 버그인지 설명해주세요.
       placeholder: ex. 닉네임이 공백일 때, Submit이 가능한 버그
-      value: ""
+      value: "버그 내용"
     validations:
       required: true
       
