@@ -55,7 +55,6 @@ body:
       label: Related Page
       description: 버그와 발생한 페이지를 알려주세요.
       placeholder: ex. MainView 
-      value: "A bug happened!"
     validations:
       required: true
       
@@ -65,7 +64,6 @@ body:
       label: Bug Flow(Optional)
       description: 버그가 발생하게 된 Flow를 알려주세요.
       placeholder: ex. Tab bar의 Home을 200번 눌렀을 때, App이 종료된다.
-      value: "A bug happened!"
     validations:
       required: false
       
