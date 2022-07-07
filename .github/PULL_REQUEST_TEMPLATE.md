@@ -1,7 +1,7 @@
 ---
 name: Pull Request Tamplate
 about: PR 템플릿
-title: "[Label] Issue Title"
+title: "[Label] PR Title"
 labels: ['feature']
 
 ---
