@@ -12,8 +12,8 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-        [x] Check
-        [ ] Uncheck
+        - [x] Check
+        - [ ] Uncheck
   - type: input
     id: contact
     attributes:
