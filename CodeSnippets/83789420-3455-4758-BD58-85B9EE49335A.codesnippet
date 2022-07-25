@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>markUIViewController</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>// MARK: - Properties
+
+// MARK: - Methods
+
+// MARK: - IBOutlets
+
+// MARK: - IBActions
+
+// MARK: - Delegates And DataSources
+
+// MARK: - Life Cycles</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>83789420-3455-4758-BD58-85B9EE49335A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>UIViewController Code의 가독성을 위한 MARK 주석</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>MARK for UIViewController</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
