@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>markSwiftUI</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>// MARK: - State Properties
+
+// MARK: - General Properties
+
+// MARK: - Methods
+
+// MARK: - ViewBuilder
+
+// MARK: - Life Cycles</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CEBB5144-5625-4EF2-A532-CBB616F86F8A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>SwiftUI Code의 가독성을 위한 MARK 주석</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>MARK for SwiftUI</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
